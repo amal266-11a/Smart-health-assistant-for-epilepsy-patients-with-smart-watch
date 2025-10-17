@@ -1,0 +1,1 @@
+Completed a two-semester Software Engineering project focused on writing an SRS for a smart health assistant. Covered requirements analysis, system structure, and user flow design using professional diagrams.
